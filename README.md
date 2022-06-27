@@ -1,4 +1,4 @@
-# Le Hack 2022
+# Le Hack 2022
 
 Ces documents sont les prises de notes rédigées de certaines conférences de [Le Hack 2022](https://lehack.org/fr). Ces notes peuvent être incomplètes ou inexactes ; certaines conférences dépassant mes domaines de compétences. Chacune d'entre-elles durait 45 minutes et étaient parfois présentées en anglais.
 
