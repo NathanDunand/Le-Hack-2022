@@ -1,6 +1,6 @@
 # Le Hack 2022
 
-Ces documents sont les prises de notes rédigées de certaines conférences de [Le Hack 2022](https://lehack.org/fr). Ces notes peuvent être incomplètes ou inexactes ; certaines conférences dépassant mes domaines de compétences. Chacune d'entre-elles durait 45 minutes et étaient parfois présentées en anglais. Les conférences sont regroupées en deux parties :
+Ces documents sont les prises de notes rédigées de certaines conférences de [Le Hack 2022](https://lehack.org/fr). Ces notes peuvent être incomplètes ou inexactes ; certaines conférences dépassant mes domaines de compétences. Chacune d'elle durait 45 minutes et étaient parfois présentées en anglais. Les conférences sont regroupées en deux parties :
 - OSINT (plus compréhensibles pour le commun des mortels)
 - Conférences techniques (plus difficiles à appréhender)
 
