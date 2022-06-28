@@ -4,7 +4,7 @@
 
 **Qactus** : site de désinformation français proche de la mouvance Qanon (USA), les thématiques abordées sont les complots en tout genre, l'antivaccination, l'antisémitisme... Il s'est fait connaître durant la crise du COVID. Le compte Twitter du site a été banni mais ce réseau social reste un lieux privilégié pour la diffusion des articles.
 
-Technologiquement, c'est un blog WordPress créé le 6 mai 2020 et qui comporte un traqueur publicitaire (détail important pour la fin). Le but de la conférence est de comprendre l'environnement de ce genre de site, son fonctionnement ainsi que d'essayer de retrouver son/ses créateur(s)/administrateur(s).
+Technologiquement, c'est un blog WordPress créé le 6 mai 2020 qui comporte un traqueur publicitaire (détail important pour la fin). Le but de la conférence est de comprendre l'environnement de ce genre de site, son fonctionnement ainsi que d'essayer de retrouver son/ses créateur(s)/administrateur(s).
 
 Les pivots utilisés lors de l'enquête :
 - [iqwhois](https://iqwhois.com/)
@@ -14,7 +14,7 @@ Les pivots utilisés lors de l'enquête :
 ## Comprendre l'écosystème
 
 Les outils utilisés sont :
-- [Hyphe](https://hyphe.medialab.sciences-po.fr/) : collecte et cartographie de l'information. Une fonctionnalité intéressante est de pouvoir calculer la densité d'un graphe ; permet de savoir quel site cite t
+- [Hyphe](https://hyphe.medialab.sciences-po.fr/) : collecte et cartographie de l'information. Une fonctionnalité intéressante est de pouvoir visualiser les sites qui se citent entre-eux.
 - [Gephi](https://gephi.org/) : analyse et cartographie de l'information (très complémentaire avec Hyphe)
 - Retina (lien de l'outil ?) : visualisation de la donnée
 - [Smat.app](https://www.smat-app.com/) : visualisation dans le temps selon des critères, par exemple on peut voir l'impact de la désinformation par Qactus pendant et après le covid.
