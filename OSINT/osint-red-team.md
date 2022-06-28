@@ -14,7 +14,7 @@ Les réseaux sociaux ont une importance, on a tendance à les sous-estimer et à
 
 Le présentateur illustre ses propos par l'affaire Strava (*Jean-Marc Manach, journaliste chez Next INpact*) : des militaires/espions qui utilisaient cette application de running et qui permettait de découvrir des bases militaires secrètes. Strava est un petit réseau social, on peut par exemple y faire des groupes de coureur. Cela peut être très utile pour trouver des noms d'employés et voir leurs habitudes de courses (à priori cette fonctionnalité est en train d'être patchée).
 
-A partir de toutes ces informations, il est possible d'approcher des personnes de l'entreprise et de gagner leur confiance. Il est alors possible de les manipuler, on connaît leurs passions, son niveau d'accès dans l'entreprise voire même son tempérament.
+A partir des informations obtenues (passions, niveau d'accès dans l'entreprise, tempérament ...), il est possible de manipuler ces personnes pour obtenir plus d'information ou des accès privilégiés.
 
 Quelques outils et références :
 - [The Stuxnet Story](https://www.youtube.com/watch?v=Joc0iTX9dyQ&ab_channel=LangnerGroup) -> de l'OSINT a été utilisé à partir d'images de propagande du régime iranien pour connaître le type d'équipement, les versions des logiciels...
